@@ -1,1 +1,4 @@
-#!/bin/bash/Jenkins.sh
+#!/bin/bash/
+whoami
+hostname
+./Jenkins.sh
